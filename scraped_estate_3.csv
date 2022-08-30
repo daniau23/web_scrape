@@ -1,0 +1,480 @@
+title,location,price,area,bedrooms,furniture_status
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Planciusstraat,1013 MD Amsterdam (Haarlemmerbuurt),3250,157,3,Furnished
+Apartment Singel 94 B,1015 AD Amsterdam (Grachtengordel-West),4250,135,3,Furnished
+Apartment Damstraat 1 E,1012 JL Amsterdam (Burgwallen-Oude Zijde),4000,100,3,Furnished
+Apartment Ookmeerweg 8 A,1068 ZX Amsterdam (Osdorp-Oost),1660,123,4,Upholstered
+Apartment Kanteel 25,1083 DA Amsterdam (Buitenveldert-Oost),1950,99,3,Furnished
+Apartment Lutmastraat,1073 GP Amsterdam (Zuid Pijp),2250,69,3,Upholstered
+Apartment Cornelis Trooststraat 26 III,1072 JG Amsterdam (Nieuwe Pijp),3000,107,5,Upholstered
+Apartment Nieuwe Keizersgracht 63 A,1018 VD Amsterdam (Weesperbuurt/Plantage),3500,140,5,Furnished
+Apartment Vosmaerstraat 4 hs,1054 TB Amsterdam (Overtoomse Sluis),2750,104,4,Upholstered
+Apartment Roerstraat 67 hs,1078 LK Amsterdam (Scheldebuurt),2850,110,4,Furnished
+Apartment Borssenburgplein 69,1078 WB Amsterdam (IJselbuurt),2475,88,3,Upholstered or furnished
+Apartment Vondelkerkstraat,1054 KX Amsterdam (Overtoomse Sluis),2850,77,3,Furnished
+Apartment Piet Gijzenbrugstraat,1059 XK Amsterdam (Hoofddorppleinbuurt),2150,70,3,Furnished
+Apartment Admiraal De Ruijterweg,1055 NH Amsterdam (Landlust),3950,130,5,Upholstered
+Apartment Jan Evertsenstraat,1057 BT Amsterdam (Hoofdweg e.o.),4250,95,5,Furnished
+Apartment Oudezijds Voorburgwal,1012 EM Amsterdam (Burgwallen-Oude Zijde),2950,130,5,Upholstered
+Apartment Cornelis Vermuydenstraat,1018 RN Amsterdam (Oostelijke Eilanden/Kadijken),2000,70,3,Furnished
+Apartment Michelangelostraat 39 hs,1077 BR Amsterdam (Apollobuurt),4650,200,5,Upholstered
+Apartment Revaleiland,1014 ZG Amsterdam (Houthavens),3750,155,4,Furnished
+Apartment Buitendraaierij,1021 NM Amsterdam (IJplein/Vogelbuurt),1500,46,2,Furnished
+Apartment Gerrit van der Veenstraat,1077 EE Amsterdam (Apollobuurt),3475,162,4,Upholstered
+Apartment Derde Oosterparkstraat,1092 EH Amsterdam (Oosterparkbuurt),2200,106,3,Upholstered or furnished
+Apartment Koningslaan 24 C,1075 AD Amsterdam (Willemspark),3950,83,3,Upholstered
+Apartment Brederodestraat,1054 VD Amsterdam (Overtoomse Sluis),1950,43,2,Upholstered
+Apartment Termini 405,1025 XM Amsterdam (Buikslotermeer),1480,69,3,Upholstered
+Apartment Stadionweg,1077 SV Amsterdam (Apollobuurt),2250,58,3,Upholstered
+Apartment Westerstraat,1015 LZ Amsterdam (Jordaan),1850,50,2,Upholstered
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Willem Frederik Hermansstraat,1011 DG Amsterdam (Nieuwmarkt/Lastage),2000,90,3,Furnished
+Apartment Runstraat 23 III,1016 GJ Amsterdam (Grachtengordel-West),2000,60,3,Furnished
+Apartment Wouwermanstraat 1 1+2,1071 LT Amsterdam (Museumkwartier),3000,140,4,Upholstered
+Apartment Sloterkade 138 D,1058 HM Amsterdam (Hoofddorppleinbuurt),2600,106,3,Upholstered
+Apartment Rooseveltlaan,1079 AM Amsterdam (Scheldebuurt),4500,121,4,Furnished
+Studio Ferdinand Bolstraat,1072 LM Amsterdam (Oude Pijp),1525,35,2,Furnished
+Apartment Vierwindenstraat,1013 CW Amsterdam (Haarlemmerbuurt),2350,75,3,Furnished
+Apartment Kleine Wittenburgerstraat,1018 LZ Amsterdam (Oostelijke Eilanden/Kadijken),1900,60,2,Furnished
+Apartment Maria Austriastraat,1087 JC Amsterdam (IJburg West),1950,39,1,Upholstered or furnished
+Apartment Biesboschstraat,1078 MK Amsterdam (Scheldebuurt),2100,80,3,Upholstered
+Apartment Derde Kostverlorenkade,1054 TN Amsterdam (Overtoomse Sluis),2000,60,2,Furnished
+Apartment Geldersekade,1011 EH Amsterdam (Burgwallen-Oude Zijde),2500,70,3,Upholstered or furnished
+Apartment Alexander Boersstraat 31 I,1071 KV Amsterdam (Museumkwartier),2500,61,2,Upholstered or furnished
+Apartment Overhaalsgang,1018 AT Amsterdam (Oostelijke Eilanden/Kadijken),1795,65,2,Furnished
+Apartment Nieuwe Achtergracht,1018 XV Amsterdam (Weesperbuurt/Plantage),2100,61,3,Upholstered
+Apartment Maasstraat,1078 HM Amsterdam (Scheldebuurt),2250,100,3,Upholstered
+Apartment Koninginneweg,1075 CT Amsterdam (Willemspark),4000,147,4,Furnished
+Apartment Celebesstraat,1094 GB Amsterdam (Indische Buurt West),2150,75,3,Upholstered
+Apartment Westlandgracht,1059 TL Amsterdam (Hoofddorppleinbuurt),2750,110,4,Furnished
+Apartment Van Nijenrodeweg 239,1082 GW Amsterdam (Buitenveldert-West),2100,87,3,Furnished
+Apartment Maria Austriastraat,1087 JC Amsterdam (IJburg West),1750,44,2,Upholstered or furnished
+Apartment Nachtwachtlaan 100 PP,1058 EC Amsterdam (Overtoomse Veld),2500,103,4,Furnished
+Apartment Borneostraat,1094 CJ Amsterdam (Indische Buurt West),2750,142,4,Upholstered
+House Moreelsestraat,1071 BJ Amsterdam (Museumkwartier),6750,195,5,Upholstered
+Apartment Tweede Jan Steenstraat 18 hs,1073 VN Amsterdam (Oude Pijp),2750,100,4,Furnished
+Apartment Willem de Zwijgerlaan,1055 PV Amsterdam (Landlust),2850,107,4,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Voorthuizenstraat 17,1106 DJ Amsterdam (Gein),2000,130,5,Upholstered
+Apartment Rustenburgerstraat,1072 HD Amsterdam (Nieuwe Pijp),2550,119,4,Furnished
+Apartment Meerhuizenplein,1078 TD Amsterdam (IJselbuurt),2475,91,3,Furnished
+Studio Borneokade,1019 AV Amsterdam (Oostelijk Havengebied),1300,35,1,Furnished
+Apartment Uiterwaardenstraat,1079 CM Amsterdam (Scheldebuurt),1750,50,2,Furnished
+Apartment Erik de Roodestraat,1056 AK Amsterdam (De Kolenkit),3250,100,4,Furnished
+Apartment Sarphatistraat,1018 GK Amsterdam (Weesperbuurt/Plantage),4950,142,5,Furnished
+Apartment Koningin Wilhelminaplein,1062 KS Amsterdam (Westlandgracht),4300,178,5,Furnished
+Apartment Bos en Lommerweg,1055 EA Amsterdam (Erasmuspark),2700,122,3,Upholstered
+Apartment Goudsbloemstraat,1015 JK Amsterdam (Jordaan),2450,80,3,Furnished
+Apartment Leliegracht,1015 DG Amsterdam (Grachtengordel-West),3250,115,3,Furnished
+Apartment Jisperveldstraat 87,1024 AD Amsterdam (Waterlandpleinbuurt),2100,100,3,Furnished
+Apartment Rozengracht,1016 SZ Amsterdam (Jordaan),2500,80,2,Furnished
+Apartment Eerste Constantijn Huygensstraat 32 C,1054 BR Amsterdam (Helmersbuurt),5500,200,4,Furnished
+Apartment Frederiksplein,1017 XM Amsterdam (De Weteringschans),2450,64,2,Furnished
+Apartment Kinkerstraat 260 A,1053 GA Amsterdam (Kinkerbuurt),2750,95,4,Upholstered
+Apartment Keizersgracht 441,1017 DJ Amsterdam (Grachtengordel-Zuid),7500,277,7,Furnished
+Apartment Bloemgracht,1015 TR Amsterdam (Jordaan),4750,132,4,Furnished
+Apartment Kerkstraat 132 B,1017 GP Amsterdam (Grachtengordel-Zuid),2350,70,2,Upholstered
+House Gerard Ruttenhof 15,1087 EL Amsterdam (IJburg West),2995,157,4,Upholstered
+Apartment Singel,1016 AC Amsterdam (Grachtengordel-West),3450,105,4,Furnished
+Apartment Stadionweg 182 2,1077 TC Amsterdam (Apollobuurt),3100,106,3,Upholstered or furnished
+Apartment Sassenheimstraat 59 3,1059 BD Amsterdam (Hoofddorppleinbuurt),2500,78,4,Upholstered or furnished
+Apartment Bredeweg 2 II,1098 BP Amsterdam (Middenmeer),2350,67,3,Upholstered
+Apartment Veembroederhof 51,1019 HD Amsterdam (Oostelijk Havengebied),2800,150,4,Upholstered
+Apartment Van Boshuizenstraat,1082 AN Amsterdam (Buitenveldert-Oost),2000,67,3,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Maria Austriastraat 682 C,1087 JC Amsterdam (IJburg West),2150,40,2,Upholstered
+Apartment Egelantiersgracht,1015 RB Amsterdam (Jordaan),2750,70,4,Furnished
+House Panamakade,1019 TT Amsterdam (Oostelijk Havengebied),2950,166,4,Furnished
+Apartment Erich Salomonstraat 112,1087 EH Amsterdam (IJburg West),2200,103,3,Upholstered or furnished
+Apartment Nachtwachtlaan 506,1058 ET Amsterdam (Overtoomse Veld),2300,100,3,Furnished
+Apartment Burmanstraat 35,1091 SH Amsterdam (Weesperzijde),1950,47,2,Furnished
+Apartment Prins Hendrikkade,1012 TK Amsterdam (Burgwallen-Nieuwe Zijde),2250,75,2,Furnished
+Apartment Het Breed 515,1025 HT Amsterdam (Buikslotermeer),1750,95,3,Upholstered
+House Dierenriem,1033 AE Amsterdam (Tuindorp Oostzaan),2250,84,4,Upholstered or furnished
+Apartment Keizersgracht,1015 CX Amsterdam (Grachtengordel-West),2295,72,2,Furnished
+Apartment Gerard Douplein 19 2,1073 XE Amsterdam (Oude Pijp),2100,70,3,Upholstered
+Apartment Stadionkade 69 2,1077 VS Amsterdam (Apollobuurt),2750,110,4,Furnished
+Apartment H. Diesveldsingel,1060 RL Amsterdam (Middelveldsche Akerpolder),2750,106,4,Upholstered
+Apartment Johannes Verhulststraat,1075 HC Amsterdam (Willemspark),2850,75,3,Furnished
+Apartment Geuzenstraat 48 3,1056 KE Amsterdam (Geuzenbuurt),2200,100,3,Furnished
+Apartment Bestevâerstraat 4 3,1056 HM Amsterdam (Geuzenbuurt),2500,90,3,Upholstered or furnished
+Apartment Andreasplein,1058 GD Amsterdam (Westlandgracht),4000,140,4,Furnished
+Apartment Van Nijenrodeweg 88 4,1083 EE Amsterdam (Buitenveldert-Oost),2250,100,3,Furnished
+Apartment Marnixkade 86 hs,1015 ZH Amsterdam (Jordaan),2250,75,2,Furnished
+Apartment Vrolikstraat,1092 TS Amsterdam (Oosterparkbuurt),1550,55,2,Upholstered
+Apartment Herengracht 132 C,1015 BV Amsterdam (Grachtengordel-West),10500,190,4,Upholstered or furnished
+Apartment Valkenburgerstraat 132 D,1011 NA Amsterdam (Nieuwmarkt/Lastage),2650,95,3,Furnished
+Apartment Ruyschstraat 96 Hs,1091 CG Amsterdam (Oosterparkbuurt),3500,123,5,Upholstered
+Apartment Keizersgracht 114,1015 CV Amsterdam (Grachtengordel-West),3000,80,4,Furnished
+Apartment Nida Senffstraat 43,1095 MX Amsterdam (Zeeburgereiland/Nieuwe Diep),2000,69,3,Upholstered
+Apartment Nieuwezijds Voorburgwal 299 C,1012 RM Amsterdam (Burgwallen-Nieuwe Zijde),2998,125,3,Upholstered
+Apartment Lauriergracht 109 4,1016 RJ Amsterdam (Jordaan),4500,200,4,Upholstered or furnished
+Apartment Prinsengracht,1017 KV Amsterdam (De Weteringschans),3750,120,3,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Tweede Tuindwarsstraat 6 2,1015 RZ Amsterdam (Jordaan),2750,76,4,Furnished
+Apartment Prinsengracht 652 B,1017 KV Amsterdam (De Weteringschans),3750,120,3,Furnished
+Apartment Vondelstraat 70 I,1054 GG Amsterdam (Vondelbuurt),2300,85,2,Furnished
+Apartment Jan de Louterstraat,1063 KX Amsterdam (Slotermeer-Zuidwest),2000,116,3,Upholstered or furnished
+Apartment Johannes Verhulststraat 224 H,1075 HG Amsterdam (Willemspark),4000,140,5,Upholstered
+Apartment Van Tuyll van Serooskerkenweg,1076 JN Amsterdam (Stadionbuurt),4750,156,4,Upholstered
+Apartment Rookmelderstraat,1019 VS Amsterdam (Oostelijk Havengebied),1650,50,2,Upholstered
+Apartment Van Baerlestraat 76 B,1071 BB Amsterdam (Museumkwartier),3250,85,3,Upholstered
+Apartment Rustenburgerstraat,1073 GJ Amsterdam (Nieuwe Pijp),1950,60,3,Furnished
+Apartment Okeghemstraat 6 I,1075 PM Amsterdam (Willemspark),2750,75,3,Upholstered or furnished
+Apartment Beethovenstraat,1077 JP Amsterdam (Apollobuurt),3800,134,3,Furnished
+Apartment IJburglaan,1086 ZJ Amsterdam (IJburg West),1400,42,1,Upholstered
+Apartment Molensteeg 1 B,1012 BG Amsterdam (Burgwallen-Oude Zijde),2100,78,3,Upholstered
+Apartment Kloveniersburgwal,1011 KA Amsterdam (Nieuwmarkt/Lastage),2500,65,2,Furnished
+Apartment Duke Ellingtonstraat,1066 GE Amsterdam (Sloter-/Riekerpolder),2150,94,1,Furnished
+House Prinsengracht 516,1017 KJ Amsterdam (De Weteringschans),13500,536,5,Upholstered
+Apartment Vleutenstraat,1106 CX Amsterdam (Gein),1825,89,4,Upholstered
+Apartment Dalsteindreef,"1102 WX Amsterdam (Bijlmer Centrum (D,F,H))",1650,65,3,Upholstered
+Apartment Nicolaas Witsenkade,1017 ZS Amsterdam (De Weteringschans),2150,83,2,Upholstered
+Apartment Reinaert de Vosstraat,1055 CL Amsterdam (Landlust),1950,75,2,Furnished
+Apartment George Sandstraat,"1102 AG Amsterdam (Bijlmer Centrum (D,F,H))",2100,92,4,Upholstered or furnished
+Apartment Gerrit van der Veenstraat 46 I,1077 EE Amsterdam (Apollobuurt),3475,149,4,Upholstered
+Apartment Wouwermanstraat,1071 LW Amsterdam (Museumkwartier),4250,161,4,Upholstered
+Apartment Kerkstraat,1017 GN Amsterdam (Grachtengordel-Zuid),3900,150,3,Furnished
+Apartment De Lairessestraat,1071 PL Amsterdam (Museumkwartier),3850,141,3,Furnished
+Apartment Frederik Hendrikplantsoen 3 hs,1052 XN Amsterdam (Frederik Hendrikbuurt),2400,63,3,Upholstered or furnished
+Apartment Bloemgracht,1016 KN Amsterdam (Jordaan),2000,66,2,Furnished
+Apartment Tweede Oosterparkstraat 184 H,1092 BT Amsterdam (Oosterparkbuurt),2100,84,3,Upholstered
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Roerstraat,1078 LL Amsterdam (Scheldebuurt),2300,75,3,Furnished
+Apartment Emmy Andriessestraat 468,1087 NE Amsterdam (IJburg Zuid),1920,126,4,Shell
+Apartment Curaçaostraat 101 3,1058 BS Amsterdam (Westindische Buurt),2700,96,3,Furnished
+Apartment Anjeliersstraat 470 B,1015 NL Amsterdam (Jordaan),2950,78,3,Furnished
+Apartment Jan van Duivenvoordestraat,1067 MT Amsterdam (Geuzenveld),1850,92,3,Furnished
+Apartment Geschutswerf,1018 AW Amsterdam (Oostelijke Eilanden/Kadijken),3950,170,4,Furnished
+Apartment IJburglaan,1087 EN Amsterdam (IJburg West),2700,96,3,Furnished
+Apartment Meerhuizenstraat,1078 TE Amsterdam (IJselbuurt),2000,60,2,Upholstered
+Apartment Zeeburgerkade,1019 VK Amsterdam (Oostelijk Havengebied),2100,80,3,Furnished
+Apartment Afroditekade,1076 DZ Amsterdam (Stadionbuurt),1850,80,2,Furnished
+Apartment Stadionweg 122 I,1077 SV Amsterdam (Apollobuurt),3000,110,3,Upholstered
+Apartment Marco Polostraat,1056 DM Amsterdam (Van Galenbuurt),1900,75,3,Upholstered
+Apartment Schimmelstraat,1053 TA Amsterdam (Kinkerbuurt),2850,100,3,Furnished
+Apartment Bellamydwarsstraat 4 4,1053 BD Amsterdam (Kinkerbuurt),2000,50,2,Furnished
+Apartment J.J. Cremerplein,1054 TK Amsterdam (Overtoomse Sluis),3700,133,4,Upholstered or furnished
+Apartment John Blankensteinstraat 127 A,1095 MB Amsterdam (Zeeburgereiland/Nieuwe Diep),1600,50,2,Upholstered
+Apartment Keizersgracht,1015 CV Amsterdam (Grachtengordel-West),3000,80,2,Furnished
+Apartment Johannes van der Waalsstraat,1098 PG Amsterdam (Middenmeer),2950,115,5,Furnished
+Apartment Nieuwpoortstraat 94 C6,1055 RZ Amsterdam (Landlust),1700,48,2,Upholstered
+Apartment Veembroederhof 197,1019 HD Amsterdam (Oostelijk Havengebied),2500,110,4,Furnished
+Apartment Osdorpplein,1068 TD Amsterdam (Osdorp-Oost),1750,48,2,Upholstered
+Apartment Jacob Marisstraat 86 H,1058 JA Amsterdam (Hoofddorppleinbuurt),2750,95,3,Upholstered
+Apartment Bloemgracht,1016 KK Amsterdam (Jordaan),3500,75,3,Furnished
+Apartment Bloemgracht,1016 KK Amsterdam (Jordaan),2500,65,3,Furnished
+Apartment Oostenburgervoorstraat 47,1018 MN Amsterdam (Oostelijke Eilanden/Kadijken),3500,140,4,Furnished
+Apartment Prinsenstraat,1015 DA Amsterdam (Grachtengordel-West),2750,110,3,Furnished
+Apartment Hillegomstraat 32 2,1058 LT Amsterdam (Hoofddorppleinbuurt),2800,85,4,Furnished
+Apartment Noorderstraat,1017 TR Amsterdam (De Weteringschans),2950,90,3,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Czaar Peterstraat,1018 PX Amsterdam (Oostelijke Eilanden/Kadijken),2350,90,4,Furnished
+Apartment Anna Blamansingel 238,"1102 SX Amsterdam (Bijlmer Centrum (D,F,H))",1800,100,3,Upholstered or furnished
+Apartment Deurloostraat 72 HS,1078 JG Amsterdam (Scheldebuurt),2600,100,4,Upholstered
+Apartment Orteliusstraat 221 3,1056 NR Amsterdam (Van Galenbuurt),1850,60,2,Furnished
+Apartment Ridderspoorweg,1032 LL Amsterdam (Noordelijke IJ-oevers West),1750,50,2,Upholstered or furnished
+Apartment Keizersgracht,1016 GD Amsterdam (Grachtengordel-West),4500,121,3,Upholstered or furnished
+Apartment Ilperveldstraat 135,1024 PL Amsterdam (Waterlandpleinbuurt),2100,100,3,Furnished
+Apartment Rietlandpark,1019 DR Amsterdam (Oostelijk Havengebied),2950,120,3,Furnished
+Apartment Brouwersgracht,1013 HD Amsterdam (Haarlemmerbuurt),2450,85,2,Furnished
+Apartment Leidsekade,1016 CZ Amsterdam (Jordaan),2495,105,3,Furnished
+Apartment Venetiëhof,1019 ND Amsterdam (Oostelijk Havengebied),1950,90,3,Furnished
+House Prinsengracht,1016 JA Amsterdam (Jordaan),4750,181,6,Upholstered
+Apartment Prinsengracht,1015 DV Amsterdam (Jordaan),3250,100,4,Furnished
+Apartment Weesperzijde,1091 EJ Amsterdam (Weesperzijde),1850,55,2,Upholstered
+House Simon Stevinstraat 33 hs,1097 BX Amsterdam (Frankendael),3250,138,5,Upholstered
+Apartment Wilhelminastraat,1054 WB Amsterdam (Overtoomse Sluis),2950,106,3,Furnished
+Apartment Westlandgracht,1059 TR Amsterdam (Hoofddorppleinbuurt),1995,90,3,Shell
+Apartment Maasstraat,1079 BE Amsterdam (Scheldebuurt),2400,95,4,Furnished
+Apartment Ladogameerhof 270,1060 RG Amsterdam (Middelveldsche Akerpolder),1700,86,3,Furnished
+Apartment Kiekstraat 177,1087 GT Amsterdam (IJburg West),1900,98,3,Upholstered
+Apartment Vierwindendwarsstraat 15 II,1013 LB Amsterdam (Haarlemmerbuurt),2500,85,3,Upholstered
+Apartment Oudezijds Achterburgwal,1012 DE Amsterdam (Burgwallen-Oude Zijde),1695,55,3,Upholstered
+Apartment President Kennedylaan,1079 ND Amsterdam (Rijnbuurt),1750,49,2,Furnished
+Apartment Kleiburg 523,"1104 EA Amsterdam (Bijlmer Oost (E,G,K))",1600,68,3,Furnished
+Apartment Jan Luijkenstraat,1071 CS Amsterdam (Museumkwartier),5000,236,4,Furnished
+Apartment Bloemgracht,1016 KL Amsterdam (Jordaan),2400,75,3,Furnished
+Apartment Vogelenzangstraat 62 I,1058 SW Amsterdam (Hoofddorppleinbuurt),1750,54,2,Upholstered or furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Zuid-Hollandstraat 18 I,1082 EK Amsterdam (Buitenveldert-West),2150,78,4,Upholstered
+Apartment Van Baerlestraat 72 D,1071 BA Amsterdam (Museumkwartier),3500,150,3,Upholstered
+Apartment Minervalaan,1077 PK Amsterdam (Apollobuurt),4250,140,3,Upholstered
+Apartment Daniël Stalpertstraat,1072 XB Amsterdam (Oude Pijp),2150,80,3,Furnished
+Apartment Slotermeerlaan 23,1064 GZ Amsterdam (Slotermeer-Zuidwest),1750,80,4,Furnished
+Apartment Cornelis Anthoniszstraat,1071 VR Amsterdam (Museumkwartier),2650,70,3,Upholstered
+Apartment Keizersgracht 734 C,1017 EW Amsterdam (Grachtengordel-Zuid),3500,136,3,Upholstered
+Apartment Gustav Mahlerplein 175,1082 MS Amsterdam (Zuidas),2550,87,2,Furnished
+Apartment Fritz Dietrich Kahlenbergstraat,1087 LL Amsterdam (IJburg Zuid),1950,93,3,Furnished
+Apartment Valeriusstraat 60 II,1071 ML Amsterdam (Museumkwartier),3950,130,5,Upholstered
+Apartment Banstraat 28 3,1071 KA Amsterdam (Museumkwartier),4850,151,5,Furnished
+Apartment Vossiusstraat 39 hs,1071 AH Amsterdam (Museumkwartier),7750,260,7,Upholstered
+Apartment Nieuwe Leliestraat 66 H,1015 SV Amsterdam (Jordaan),2750,78,3,Upholstered or furnished
+Apartment Bloemgracht,1015 TT Amsterdam (Jordaan),6000,195,6,Upholstered
+Apartment Brouwersgracht 96 H,1013 GZ Amsterdam (Grachtengordel-West),3600,104,5,Furnished
+Apartment Herengracht,1017 CD Amsterdam (Grachtengordel-Zuid),5650,125,3,Furnished
+House Jaagpad 31,1059 BP Amsterdam (Hoofddorppleinbuurt),5000,200,6,Furnished
+House Valeriusplein,1075 BJ Amsterdam (Willemspark),8000,366,6,Upholstered
+Apartment Nicolaas Witsenkade,1017 ZS Amsterdam (De Weteringschans),7950,200,6,Furnished
+Apartment Milovan Djilasplein,"1102 JZ Amsterdam (Bijlmer Centrum (D,F,H))",1500,79,3,Furnished
+Apartment Minervaplein,1077 TR Amsterdam (Apollobuurt),2850,111,3,Furnished
+Apartment Amstelveenseweg 224 3,1075 XT Amsterdam (Schinkelbuurt),2950,115,3,Furnished
+House Bongerdkade,1036 LZ Amsterdam (Tuindorp Oostzaan),3100,150,5,Furnished
+Apartment Biesboschstraat 32 1,1078 MT Amsterdam (Scheldebuurt),2200,81,3,Upholstered or furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Het Breed,1025 JC Amsterdam (Buikslotermeer),3000,60,3,Furnished
+House Veenbesstraat 2,1036 LP Amsterdam (Tuindorp Oostzaan),2800,130,5,Upholstered
+Apartment Noorderdwarsstraat 8,1017 TX Amsterdam (De Weteringschans),2750,85,3,Furnished
+Apartment Prinsengracht,1015 DR Amsterdam (Grachtengordel-West),3750,104,3,Furnished
+House Stade de Colombes,1098 VS Amsterdam (Middenmeer),3000,232,7,Furnished
+Apartment KNSM-laan,1019 LH Amsterdam (Oostelijk Havengebied),2500,107,3,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment De Boelelaan,1082 RD Amsterdam (Buitenveldert-West),2350,85,3,Furnished
+Apartment Rustenburgerstraat,1073 EW Amsterdam (Nieuwe Pijp),1950,50,2,Upholstered
+Apartment Merckenburg 12,1082 BT Amsterdam (Buitenveldert-West),2850,74,4,Furnished
+Apartment Veerstraat 51 4,1075 SN Amsterdam (Schinkelbuurt),2350,70,2,Furnished
+Apartment Herengracht 268 II,1016 BW Amsterdam (Grachtengordel-West),2495,70,3,Upholstered or furnished
+Apartment Rosy Wertheimstraat 95,1082 MZ Amsterdam (Zuidas),2550,72,2,Furnished
+Apartment Tweede van Swindenstraat,1093 XA Amsterdam (Dapperbuurt),1550,42,2,Upholstered
+Apartment Amstelveenseweg,1075 XR Amsterdam (Schinkelbuurt),3000,92,4,Furnished
+Apartment Bestevâerstraat,1056 HN Amsterdam (Geuzenbuurt),1900,77,3,Furnished
+Apartment Van Tuyll van Serooskerkenweg,1076 JJ Amsterdam (Stadionbuurt),3750,140,7,Upholstered
+Apartment Albatrospad 142,1021 TR Amsterdam (IJplein/Vogelbuurt),3500,130,3,Furnished
+Apartment Korte Ouderkerkerdijk,1096 AC Amsterdam (Omval/Overamstel),7000,156,4,Furnished
+Apartment Keizersgracht,1017 EM Amsterdam (Grachtengordel-Zuid),10750,320,7,Furnished
+Apartment Swammerdamstraat 61 2,1091 RS Amsterdam (Weesperzijde),2550,98,3,Furnished
+Apartment Nieuwpoortstraat 94 A15,1055 RZ Amsterdam (Landlust),1750,56,2,Upholstered
+Apartment Nieuwezijds Voorburgwal 308 L,1012 RV Amsterdam (Burgwallen-Nieuwe Zijde),2950,120,3,Upholstered or furnished
+Apartment Jacob Krüsestraat,1106 ZL Amsterdam (Gein),2800,129,5,Upholstered
+Apartment Pieter de Hoochstraat 25 G,1071 ED Amsterdam (Museumkwartier),2800,97,3,Furnished
+Apartment J.J. Cremerplein 40 3,1054 TL Amsterdam (Overtoomse Sluis),2850,90,3,Furnished
+House Sarphatipark 102 HS,1073 EC Amsterdam (Nieuwe Pijp),4500,160,4,Furnished
+Apartment George Gershwinlaan 81 D,1082 MT Amsterdam (Zuidas),4850,120,4,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Wiborgeiland,1014 ZC Amsterdam (Houthavens),2500,100,4,Upholstered
+Apartment Valeriusstraat,1075 GL Amsterdam (Willemspark),2250,70,3,Upholstered or furnished
+House Windjammerdijk,1086 VC Amsterdam (IJburg West),3250,165,6,Furnished
+Apartment Sierplein,1065 LM Amsterdam (Slotervaart Zuid),1300,73,5,Shell
+Apartment Swammerdamstraat,1091 RV Amsterdam (Weesperzijde),2600,62,3,Furnished
+Apartment Keizersgracht 812 F,1017 ED Amsterdam (Grachtengordel-Zuid),3400,117,3,Furnished
+Apartment Berthold Brechtstraat,"1102 RS Amsterdam (Bijlmer Centrum (D,F,H))",1650,55,2,Furnished
+Apartment Singel 91 E,1012 VG Amsterdam (Burgwallen-Nieuwe Zijde),2850,110,2,Furnished
+Apartment Valeriusstraat 24 hs,1071 MJ Amsterdam (Museumkwartier),4750,148,5,Upholstered
+Apartment Hoendiepstraat 46 2,1079 LX Amsterdam (Rijnbuurt),2850,128,5,Upholstered
+Apartment Floris Versterstraat,1058 JM Amsterdam (Hoofddorppleinbuurt),3000,91,3,Upholstered
+Apartment Valkenburgerstraat 134 E,1011 NA Amsterdam (Nieuwmarkt/Lastage),3150,95,3,Furnished
+Apartment Gustav Mahlerplein 165,1082 MS Amsterdam (Zuidas),2850,104,3,Upholstered or furnished
+Apartment IJselstraat 87 H,1078 CG Amsterdam (IJselbuurt),2000,50,3,Upholstered
+Apartment IJselstraat 87 4,1078 CG Amsterdam (IJselbuurt),1900,50,2,Upholstered
+Apartment Vrijheidslaan,1079 KJ Amsterdam (Scheldebuurt),1800,68,3,Upholstered
+Apartment Stadionkade 40 3,1077 VP Amsterdam (Apollobuurt),2375,114,4,Upholstered
+Apartment Sint Willibrordusstraat,1073 VD Amsterdam (Nieuwe Pijp),1800,55,2,Furnished
+Apartment Piet Gijzenbrugstraat 30 2,1059 XJ Amsterdam (Hoofddorppleinbuurt),2300,80,3,Upholstered
+House Van Breestraat 139 hs,1071 ZL Amsterdam (Museumkwartier),4950,140,5,Upholstered
+Apartment Des Présstraat 4 huis,1075 NX Amsterdam (Willemspark),4000,138,4,Upholstered
+Apartment Lodewijk Boisotstraat 13,1057 ZM Amsterdam (Chassébuurt),2600,87,3,Furnished
+Apartment Aalsmeerweg,1059 AA Amsterdam (Hoofddorppleinbuurt),1850,65,3,Furnished
+Apartment Nieuwe Hoogstraat,1011 HD Amsterdam (Nieuwmarkt/Lastage),2800,65,2,Furnished
+Apartment Spuistraat 257 D,1012 VR Amsterdam (Burgwallen-Nieuwe Zijde),2750,60,4,Upholstered
+Apartment VOC-kade 152,1018 LG Amsterdam (Oostelijke Eilanden/Kadijken),2995,101,3,Furnished
+Apartment Wagenstraat,1017 CZ Amsterdam (Grachtengordel-Zuid),3100,90,3,Upholstered
+House Smalschipstraat 5,1086 VM Amsterdam (IJburg West),2995,143,5,Furnished
+Apartment Van Eeghenstraat 43 H,1071 EV Amsterdam (Museumkwartier),4750,155,4,Upholstered
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Badhuiskade 111,1031 KV Amsterdam (Noordelijke IJ-oevers West),2600,106,3,Furnished
+Apartment Haarlemmerweg 55 3,1051 KP Amsterdam (Staatsliedenbuurt),2250,69,4,Upholstered
+Apartment Tweede Jacob van Campenstraat,1073 XS Amsterdam (Oude Pijp),2250,47,2,Furnished
+Apartment De Lairessestraat 172 B,1075 HM Amsterdam (Willemspark),2950,84,3,Furnished
+Apartment Brouwersgracht,1013 HA Amsterdam (Haarlemmerbuurt),1975,61,2,Upholstered
+Apartment Plantage Parklaan 7 H,1018 SR Amsterdam (Weesperbuurt/Plantage),3500,120,3,Furnished
+Apartment Arènpalmstraat,"1104 DB Amsterdam (Bijlmer Oost (E,G,K))",1150,35,2,Furnished
+Apartment Laan der Hesperiden 16 H,1076 DK Amsterdam (Stadionbuurt),3500,127,3,Upholstered
+Apartment Plantage Middenlaan,1018 DA Amsterdam (Weesperbuurt/Plantage),3250,140,4,Upholstered
+House Oosterpark 62 HS,1092 AR Amsterdam (Oosterparkbuurt),8500,221,9,Furnished
+Apartment Oosterpark 62 2en3,1092 AR Amsterdam (Oosterparkbuurt),5500,165,6,Furnished
+Apartment Oosterpark 62 I,1092 AR Amsterdam (Oosterparkbuurt),3000,85,3,Furnished
+Apartment Oosterpark 62 II,1092 AR Amsterdam (Oosterparkbuurt),3000,85,3,Furnished
+Apartment Oosterpark 62 III,1092 AR Amsterdam (Oosterparkbuurt),2750,80,3,Furnished
+Apartment Zieseniskade 12 2,1017 RS Amsterdam (De Weteringschans),2750,135,4,Furnished
+Apartment Koningslaan 22 B,1075 AD Amsterdam (Willemspark),3950,93,3,Upholstered
+Apartment Stadionweg 140 I,1077 SX Amsterdam (Apollobuurt),3000,111,4,Upholstered
+Apartment Rozenstraat,1016 NT Amsterdam (Jordaan),3500,80,4,Furnished
+Apartment Kleiburg,"1104 EA Amsterdam (Bijlmer Oost (E,G,K))",2095,132,4,Furnished
+Apartment Kerkstraat 404,1017 JC Amsterdam (Grachtengordel-Zuid),10000,203,7,Upholstered
+Apartment Minervaplein,1077 TJ Amsterdam (Apollobuurt),2750,110,3,Furnished
+Apartment Eerste Hugo de Grootstraat 39 1,1052 KN Amsterdam (Frederik Hendrikbuurt),1500,50,2,Upholstered
+Apartment Cornelis Anthoniszstraat 36 A,1071 VV Amsterdam (Museumkwartier),2400,67,3,Furnished
+Apartment Valeriusstraat 9 II+III,1071 MB Amsterdam (Museumkwartier),3200,140,5,Upholstered or furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Oudeschans 18 III,1011 LA Amsterdam (Nieuwmarkt/Lastage),3500,100,3,Furnished
+Apartment Carolina MacGillavrylaan,1098 XA Amsterdam (Middenmeer),3000,132,4,Upholstered
+Apartment Willem Frederik Hermansstraat 9,1011 DG Amsterdam (Nieuwmarkt/Lastage),2500,86,3,Furnished
+Apartment Weteringschans 12 D,1017 SG Amsterdam (De Weteringschans),2950,134,4,Upholstered
+Apartment Groenburgwal 14 IV,1011 HV Amsterdam (Nieuwmarkt/Lastage),4400,189,3,Furnished
+Apartment Kerkstraat 253 C,1017 GW Amsterdam (Grachtengordel-Zuid),2500,121,4,Upholstered
+Apartment Leidsekade 102 A,1017 PP Amsterdam (De Weteringschans),4950,153,4,Furnished
+House Troelstralaan,1067 MX Amsterdam (Geuzenveld),2600,110,4,Furnished
+Apartment Leonardostraat 6 I,1077 EV Amsterdam (Apollobuurt),4900,185,6,Upholstered
+Apartment Dam,1012 JS Amsterdam (Burgwallen-Oude Zijde),5500,125,3,Upholstered or furnished
+Apartment Bloemgracht 122 BV,1015 TP Amsterdam (Jordaan),3750,119,5,Furnished
+House Wierdestraat 8,1069 VW Amsterdam (De Punt),2800,114,5,Upholstered or furnished
+Apartment Kerkstraat 127 B,1017 GE Amsterdam (Grachtengordel-Zuid),2400,84,3,Upholstered or furnished
+Apartment Koningin Wilhelminaplein,1062 KS Amsterdam (Westlandgracht),2250,90,3,Furnished
+House Fred Petterbaan,1019 JT Amsterdam (Oostelijk Havengebied),,175,5,Furnished
+House Weesperzijde,1091 EL Amsterdam (Weesperzijde),4750,200,6,Furnished
+Apartment Tweede Hugo de Grootstraat,1052 LC Amsterdam (Frederik Hendrikbuurt),1875,52,2,Upholstered
+Apartment Tweede Hugo de Grootstraat,1052 LC Amsterdam (Frederik Hendrikbuurt),1875,53,2,Upholstered
+Apartment Van Eeghenstraat 103 2,1071 EZ Amsterdam (Museumkwartier),5000,204,6,Upholstered
+Apartment Nieuwe Prinsengracht,1018 VT Amsterdam (Weesperbuurt/Plantage),2300,75,2,Furnished
+Apartment Pieter Oosterhuisstraat,1087 HT Amsterdam (IJburg Zuid),2350,112,3,Upholstered
+Apartment Marco Polostraat,1057 WR Amsterdam (Hoofdweg e.o.),1850,55,2,Furnished
+Apartment Evertsweertplantsoen 22,1069 RL Amsterdam (Osdorp-Midden),1995,60,2,Upholstered or furnished
+House Domela Nieuwenhuisstraat,1069 SH Amsterdam (Osdorp-Midden),2950,144,5,Furnished
+Apartment Bos en Lommerweg,1055 EA Amsterdam (Erasmuspark),1800,80,3,Upholstered
+House Zuideinde,1035 PM Amsterdam (Oostzanerwerf),2750,200,7,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Prinsengracht,1016 HP Amsterdam (Grachtengordel-West),6000,177,4,Upholstered
+House Buikslotermeerdijk,1025 WH Amsterdam (Elzenhagen),3100,128,7,Furnished
+House Singel,1012 VC Amsterdam (Burgwallen-Nieuwe Zijde),6250,200,7,Upholstered
+Apartment Keizersstraat,1011 GD Amsterdam (Nieuwmarkt/Lastage),2500,100,3,Furnished
+Apartment Kinderdijkstraat 10 H,1079 GH Amsterdam (Scheldebuurt),2150,70,3,Upholstered
+Apartment Valeriusstraat,1075 ER Amsterdam (Willemspark),3000,78,4,Furnished
+Apartment Gaasterlandstraat,1079 RH Amsterdam (Scheldebuurt),5900,138,4,Furnished
+Apartment Huidekoperstraat,1017 ZM Amsterdam (De Weteringschans),2100,75,2,Furnished
+Apartment Singel,1015 AG Amsterdam (Grachtengordel-West),4000,108,3,Furnished
+Apartment Brouwersgracht 180 A,1013 HC Amsterdam (Haarlemmerbuurt),7000,200,4,Furnished
+Apartment Zwanenburgwal 294,1011 JH Amsterdam (Nieuwmarkt/Lastage),3500,107,4,Furnished
+Apartment Valkenburgerstraat,1011 MG Amsterdam (Nieuwmarkt/Lastage),3950,162,2,Furnished
+Apartment Argonautenstraat,1076 KV Amsterdam (Stadionbuurt),3100,120,4,Upholstered
+Apartment Hemonystraat 1 2,1074 BK Amsterdam (Oude Pijp),3000,110,4,Upholstered
+Apartment Prinsengracht 625 2,1016 HV Amsterdam (Grachtengordel-West),3250,120,4,Upholstered
+Apartment Willemsparkweg,1071 GN Amsterdam (Museumkwartier),5400,185,6,Upholstered
+Apartment Gerrit van der Veenstraat,1077 EH Amsterdam (Apollobuurt),3990,127,5,Upholstered
+Apartment Waalstraat,1079 DR Amsterdam (Scheldebuurt),2150,75,3,Furnished
+Apartment Minervalaan,1077 NL Amsterdam (Apollobuurt),4950,164,6,Upholstered
+House Moestuinlaan,1036 KD Amsterdam (Tuindorp Oostzaan),4500,200,10,Upholstered or furnished
+Apartment Herengracht,1015 BH Amsterdam (Grachtengordel-West),2350,75,2,Furnished
+Apartment Valckenierstraat 1 HS,1018 XB Amsterdam (Weesperbuurt/Plantage),1900,80,3,Furnished
+Apartment Papaverweg,1032 KH Amsterdam (Volewijck),1275,47,2,Upholstered
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Van Breestraat 90 II,1071 ZS Amsterdam (Museumkwartier),4500,122,7,Upholstered
+Apartment Esplanade de Meer,1098 WN Amsterdam (Middenmeer),2500,96,3,Furnished
+Apartment Raamgracht,1011 KH Amsterdam (Nieuwmarkt/Lastage),1700,90,2,Furnished
+Apartment NDSM-kade,1033 PG Amsterdam (Noordelijke IJ-oevers West),1694,89,2,Upholstered
+Apartment NDSM-kade,1033 PG Amsterdam (Noordelijke IJ-oevers West),1568,64,2,Upholstered
+Apartment NDSM-kade,1033 PG Amsterdam (Noordelijke IJ-oevers West),1265,63,2,Upholstered
+Apartment NDSM-kade,1033 PG Amsterdam (Noordelijke IJ-oevers West),1487,71,2,Upholstered
+Apartment Plantage Middenlaan,1018 DE Amsterdam (Weesperbuurt/Plantage),3250,147,4,Upholstered
+Apartment Groenburgwal,1011 HX Amsterdam (Nieuwmarkt/Lastage),1900,70,2,Furnished
+House Keizersgracht 786,1017 EC Amsterdam (Grachtengordel-Zuid),13000,450,12,Upholstered
+Apartment Lijnbaansgracht,1016 VX Amsterdam (Jordaan),7500,178,2,Upholstered or furnished
+House Adelaarsweg 7,1021 BM Amsterdam (IJplein/Vogelbuurt),3500,180,6,Furnished
+Apartment Ruysdaelkade 197 2,1072 AV Amsterdam (Nieuwe Pijp),1865,58,3,Furnished
+House Amstel 49,1011 PW Amsterdam (Nieuwmarkt/Lastage),5500,125,4,Upholstered or furnished
+Apartment Keizersgracht 385 B,1016 EJ Amsterdam (Grachtengordel-West),9750,300,5,Upholstered or furnished
+Apartment Aalsmeerweg 37 H,1059 AB Amsterdam (Hoofddorppleinbuurt),3000,90,4,Upholstered
+Studio Wibautstraat 150,1091 GR Amsterdam (Weesperzijde),3250,40,1,Furnished
+Apartment Kalverstraat,1012 PH Amsterdam (Burgwallen-Nieuwe Zijde),2750,110,4,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Peelstraat 44,1079 RN Amsterdam (Scheldebuurt),1760,92,3,Upholstered
+Apartment Bos en Lommerplantsoen,1055 AA Amsterdam (De Kolenkit),4500,50,2,Furnished
+House Leliegracht,1015 DH Amsterdam (Grachtengordel-West),3500,118,4,Upholstered
+Apartment Burgemeester Cramergracht 139,1064 AK Amsterdam (Slotermeer-Zuidwest),1400,65,2,Shell
+Apartment Albert Cuypstraat 143 3,1072 CS Amsterdam (Oude Pijp),2900,53,2,Furnished
+Apartment Linnaeusstraat,1092 CK Amsterdam (Oosterparkbuurt),3475,153,5,Furnished
+Studio August Allebéplein,1062 AC Amsterdam (Overtoomse Veld),673,30,1,Upholstered
+Apartment Prinsengracht,1016 GV Amsterdam (Grachtengordel-West),4500,100,3,Upholstered or furnished
+Apartment NDSM-kade,1033 PG Amsterdam (Noordelijke IJ-oevers West),2654,129,4,Upholstered
+Apartment Stromarkt,1012 SW Amsterdam (Burgwallen-Nieuwe Zijde),2350,65,2,Furnished
+Apartment Javakade,1019 RV Amsterdam (Oostelijk Havengebied),2250,114,3,Upholstered
+Apartment Stadionweg,1077 ST Amsterdam (Apollobuurt),2700,120,3,Upholstered or furnished
+Apartment John Blankensteinstraat,1095 MB Amsterdam (Zeeburgereiland/Nieuwe Diep),3400,105,5,Upholstered
+Apartment Wolbrantskerkweg,1069 DA Amsterdam (Osdorp-Midden),2200,132,5,Upholstered
+Studio Elizabeth Cady Stantonplein,"1102 BL Amsterdam (Bijlmer Centrum (D,F,H))",655,30,1,Upholstered
+Apartment Tasmanstraat 3,1013 PW Amsterdam (Houthavens),2150,100,4,Furnished
+Apartment Koningin Wilhelminaplein,1062 KS Amsterdam (Westlandgracht),2250,90,3,Furnished
+Apartment IJdok,1013 MM Amsterdam (Haarlemmerbuurt),2550,55,2,Upholstered or furnished
+Apartment Amstelveenseweg,1075 XL Amsterdam (Schinkelbuurt),2450,70,3,Upholstered or furnished
+House Prinsengracht,1015 DP Amsterdam (Grachtengordel-West),1750,50,1,Furnished
+Apartment Johan van der Keukenstraat 83 F,1087 BC Amsterdam (IJburg West),1350,45,1,Furnished
+Apartment Tweede Jan Steenstraat 45 H,1074 CK Amsterdam (Oude Pijp),2250,105,3,Upholstered
+Apartment Kloveniersburgwal 42 E1,1012 CW Amsterdam (Burgwallen-Oude Zijde),2950,78,3,Furnished
+Apartment Leliegracht,1016 GN Amsterdam (Grachtengordel-West),1850,51,1,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment S. F. van Ossstraat 82,1068 JL Amsterdam (Osdorp-Oost),1950,80,3,Furnished
+Apartment Kuiperssteeg 7,1012 HR Amsterdam (Burgwallen-Oude Zijde),2750,130,3,Furnished
+Apartment Linnaeusstraat,1093 ED Amsterdam (Dapperbuurt),1700,56,2,Furnished
+Apartment Vrolikstraat,1091 VB Amsterdam (Oosterparkbuurt),1775,52,2,Furnished
+Apartment Molukkenstraat 559,1095 BJ Amsterdam (Indische Buurt Oost),1800,46,3,Upholstered
+Apartment Muntplein,1012 WR Amsterdam (Burgwallen-Nieuwe Zijde),1800,65,2,Upholstered
+Apartment Sint Willibrordusstraat 105 C,1073 VB Amsterdam (Nieuwe Pijp),2250,53,3,Furnished
+Apartment Govert Flinckstraat 155 II/III,1073 BS Amsterdam (Oude Pijp),2250,85,3,Upholstered
+Apartment Roetersstraat 154,1018 WE Amsterdam (Weesperbuurt/Plantage),1750,45,2,Furnished
+Apartment Hoogte Kadijk 131 hs,1018 BH Amsterdam (Oostelijke Eilanden/Kadijken),2750,120,3,Furnished
+Apartment Bella Vistastraat,1096 GM Amsterdam (Omval/Overamstel),2550,90,4,Upholstered or furnished
+Apartment Boeninlaan,"1102 TP Amsterdam (Bijlmer Centrum (D,F,H))",1550,67,4,Upholstered
+Apartment Theo Frenkelhof 110,1087 KD Amsterdam (IJburg West),1900,87,3,Upholstered or furnished
+Apartment Veembroederhof,1019 HC Amsterdam (Oostelijk Havengebied),2350,93,3,Upholstered or furnished
+Apartment Leerdamhof,1108 BM Amsterdam (Nellestein),1650,69,3,Furnished
+Apartment Omval 117,1096 AA Amsterdam (Omval/Overamstel),2100,90,2,Furnished
+Apartment Marius Meijboomstraat,1087 LD Amsterdam (IJburg Zuid),1700,81,3,Furnished
+Apartment Benedenlangs,1025 KB Amsterdam (Buikslotermeer),1750,92,5,Upholstered
+Apartment Olympiaweg 64 2,1076 XC Amsterdam (Stadionbuurt),1650,49,2,Furnished
+Apartment Plantage Muidergracht 73 H,1018 TN Amsterdam (Weesperbuurt/Plantage),1850,56,2,Upholstered
+Apartment Beethovenstraat 9 A-II,1077 HL Amsterdam (Apollobuurt),3250,130,3,Upholstered
+Apartment Pontanusstraat 12,1093 RW Amsterdam (Dapperbuurt),2450,93,4,Furnished
+Apartment Arent Janszoon Ernststraat 85,1083 GR Amsterdam (Buitenveldert-Oost),2750,111,3,Furnished
+Apartment Van Noordtkade 7 II,1013 BZ Amsterdam (Spaarndammer- en Zeeheldenbuurt),2550,86,3,Furnished
+Apartment Olympiaplein 19 BV,1077 CK Amsterdam (Apollobuurt),4500,200,6,Upholstered
+Apartment Plantage Kerklaan 22 III+IV,1018 TB Amsterdam (Weesperbuurt/Plantage),2500,120,3,Upholstered
+Apartment Henrick de Keijserplein 27 E,1073 SW Amsterdam (Nieuwe Pijp),2400,86,3,Furnished
+Apartment Singel 259 II,1012 WG Amsterdam (Burgwallen-Nieuwe Zijde),2100,111,2,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Frans van Mierisstraat,1071 RT Amsterdam (Museumkwartier),2800,60,3,Furnished
+Apartment Badhuiskade 187,1031 KV Amsterdam (Noordelijke IJ-oevers West),1900,50,1,Upholstered
+Apartment Stadionplein,1076 CK Amsterdam (Stadionbuurt),2500,80,3,Furnished
+Apartment Van Nijenrodeweg 456,1082 HL Amsterdam (Buitenveldert-West),2250,85,4,Furnished
+Apartment Dijkwater 135,1025 CW Amsterdam (Buikslotermeer),1850,100,3,Furnished
+Apartment Kolfschotenstraat,"1104 PA Amsterdam (Bijlmer Oost (E,G,K))",1400,50,2,Furnished
+Apartment 's-Gravelandse Veer,1011 KN Amsterdam (Nieuwmarkt/Lastage),1900,77,2,Upholstered
+Apartment Albrecht Dürerstraat 29 2,1077 LV Amsterdam (Apollobuurt),1750,70,2,Furnished
+Apartment Professor J.H. Gunningstraat,1068 MS Amsterdam (Osdorp-Oost),1900,80,2,Upholstered
+Apartment Da Costakade 31 hs,1052 SG Amsterdam (Da Costabuurt),2500,81,3,Furnished
+Apartment Molukkenstraat 563,1095 BJ Amsterdam (Indische Buurt Oost),1900,62,3,Upholstered
+Apartment Anne Frankstraat 79 IV,1018 DM Amsterdam (Weesperbuurt/Plantage),2500,86,3,Furnished
+Apartment Jacob van Lennepkade 65 3+4,1054 ZH Amsterdam (Helmersbuurt),3300,127,4,Furnished
+Apartment Lambertus Zijlplein 38,1067 JS Amsterdam (Geuzenveld),1850,89,3,Furnished
+Apartment Zocherstraat 27 III,1054 LR Amsterdam (Overtoomse Sluis),3250,140,4,Furnished
+Apartment Bronckhorststraat,1071 WR Amsterdam (Museumkwartier),1950,64,2,Furnished
+Apartment Westerstraat,1015 LW Amsterdam (Jordaan),1950,48,2,Furnished
+Apartment Plantage Middenlaan 8 C,1018 DD Amsterdam (Weesperbuurt/Plantage),4250,160,4,Furnished
+Apartment Kerdijkhof 22,1067 MN Amsterdam (Geuzenveld),2150,86,3,Furnished
+Apartment Kleiburg 546,"1104 EA Amsterdam (Bijlmer Oost (E,G,K))",1550,60,2,Furnished
+Apartment Silvoldestraat 75,1107 TD Amsterdam (Holendrecht/Reigersbos),1450,72,3,Upholstered or furnished
+Apartment Pieter de Hoochstraat 23 A + PP,1071 ED Amsterdam (Museumkwartier),3300,114,3,Upholstered
+Apartment Herengracht,1015 BK Amsterdam (Grachtengordel-West),4500,161,5,Upholstered
+Apartment Bella Vistastraat 318,1096 GM Amsterdam (Omval/Overamstel),4250,150,5,Furnished
+Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Roemer Visscherstraat 14 2,1054 EX Amsterdam (Vondelbuurt),2950,79,3,Furnished
+Apartment Commelinstraat,1093 TS Amsterdam (Dapperbuurt),4200,140,4,Upholstered
+Apartment Veemkade 268,1019 HD Amsterdam (Oostelijk Havengebied),2400,100,3,Furnished
+Apartment Prinsengracht 701 2A,1017 JV Amsterdam (Grachtengordel-Zuid),2050,60,2,Upholstered or furnished
+House G.J. Scheurleerweg 70,1022 KL Amsterdam (Elzenhagen),2750,118,5,Furnished
+Apartment Singel,1012 VG Amsterdam (Burgwallen-Nieuwe Zijde),2800,109,2,Upholstered or furnished
+Apartment Badhuiskade,1031 KV Amsterdam (Noordelijke IJ-oevers West),3500,125,4,Upholstered or furnished
+Apartment Loenermark 118,1025 SL Amsterdam (Buikslotermeer),1850,80,3,Furnished
+Apartment Koningsstraat,1011 EW Amsterdam (Nieuwmarkt/Lastage),3500,135,5,Furnished
+Apartment Linnaeusparkweg 82 I,1098 EH Amsterdam (Middenmeer),2900,123,4,Upholstered
+Apartment Noordermarkt 13 2,1015 MX Amsterdam (Jordaan),3250,122,3,Furnished
+Apartment Valeriusstraat 139 HS,1075 ET Amsterdam (Willemspark),6000,220,7,Upholstered
+Apartment Tweede Helmersstraat 8 H,1054 CH Amsterdam (Helmersbuurt),2985,126,3,Furnished
+Apartment Plantage Kerklaan,1018 SX Amsterdam (Weesperbuurt/Plantage),2750,90,3,Furnished
+Apartment Valeriusstraat 219 2,1075 EZ Amsterdam (Willemspark),5500,193,5,Upholstered
+Apartment Singel,1012 WG Amsterdam (Burgwallen-Nieuwe Zijde),2950,110,3,Furnished
+Apartment Amstelkade,1078 AZ Amsterdam (Scheldebuurt),2500,93,4,Furnished
+Apartment Sijlhoff,1082 EP Amsterdam (Buitenveldert-West),2500,120,6,Upholstered
+Apartment Wilhelminastraat 29 2,1054 VV Amsterdam (Helmersbuurt),2000,53,2,Upholstered or furnished
+Apartment Valeriusstraat,1075 GC Amsterdam (Willemspark),5500,210,5,Upholstered
+House Amstelbeststraat 4,1096 GD Amsterdam (Omval/Overamstel),8750,324,7,Furnished
+Apartment Leliegracht 12 1,1015 DE Amsterdam (Grachtengordel-West),2250,95,2,Furnished
+Apartment Leliegracht 12 II,1015 DE Amsterdam (Grachtengordel-West),3400,160,3,Furnished
