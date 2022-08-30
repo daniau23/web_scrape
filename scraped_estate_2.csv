@@ -1,5 +1,9 @@
 title,location,price,area,bedrooms,furniture_status
 Apartment Bosboom Toussaintstraat,1054 AT Amsterdam (Helmersbuurt),4750,155,5,Furnished
+Apartment Vondelkerkstraat,1054 KX Amsterdam (Overtoomse Sluis),2850,77,3,Furnished
+Apartment Piet Gijzenbrugstraat,1059 XK Amsterdam (Hoofddorppleinbuurt),2150,70,3,Furnished
+Apartment Admiraal De Ruijterweg,1055 NH Amsterdam (Landlust),3950,130,5,Upholstered
+Apartment Jan Evertsenstraat,1057 BT Amsterdam (Hoofdweg e.o.),4250,95,5,Furnished
 Apartment Oudezijds Voorburgwal,1012 EM Amsterdam (Burgwallen-Oude Zijde),2950,130,5,Upholstered
 Apartment Cornelis Vermuydenstraat,1018 RN Amsterdam (Oostelijke Eilanden/Kadijken),2000,70,3,Furnished
 Apartment KNSM-laan,1019 LG Amsterdam (Oostelijk Havengebied),1850,60,2,Furnished
@@ -18,15 +22,11 @@ Apartment Westerstraat,1015 LZ Amsterdam (Jordaan),1850,50,2,Upholstered
 Apartment Willem Frederik Hermansstraat,1011 DG Amsterdam (Nieuwmarkt/Lastage),2000,90,3,Furnished
 Apartment Kerkstraat 113 4,1017 GD Amsterdam (Grachtengordel-Zuid),1995,58,2,Furnished
 Apartment Runstraat 23 III,1016 GJ Amsterdam (Grachtengordel-West),2000,60,3,Furnished
-House Prinsengracht,1015 DP Amsterdam (Grachtengordel-West),1750,50,1,Furnished
 Apartment Keizersgracht 680 II+III,1017 ET Amsterdam (Grachtengordel-Zuid),3950,125,3,
 Apartment Keizersgracht,1016 EX Amsterdam (Grachtengordel-West),2100,60,1,Furnished
 Apartment Wouwermanstraat 1 1+2,1071 LT Amsterdam (Museumkwartier),3000,140,4,Upholstered
 Apartment Sloterkade 138 D,1058 HM Amsterdam (Hoofddorppleinbuurt),2600,106,3,Upholstered
 Apartment Rooseveltlaan,1079 AM Amsterdam (Scheldebuurt),4500,121,4,Furnished
-Apartment Da Costastraat,1053 ZD Amsterdam (Da Costabuurt),1750,46,2,Furnished
 Studio Ferdinand Bolstraat,1072 LM Amsterdam (Oude Pijp),1525,35,2,Furnished
 Apartment Vierwindenstraat,1013 CW Amsterdam (Haarlemmerbuurt),2350,75,3,Furnished
 Apartment Kleine Wittenburgerstraat,1018 LZ Amsterdam (Oostelijke Eilanden/Kadijken),1900,60,2,Furnished
-Apartment Maria Austriastraat,1087 JC Amsterdam (IJburg West),1950,39,1,Upholstered or furnished
-Apartment Biesboschstraat,1078 MK Amsterdam (Scheldebuurt),2100,80,3,Upholstered
